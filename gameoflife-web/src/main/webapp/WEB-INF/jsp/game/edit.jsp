@@ -3,6 +3,7 @@
 <%@page import="java.io.InputStream" %>
 <%@page import="java.io.IOException" %>
 <%@page import="java.util.Properties" %>
+<!DOCTYPE html>
 <html>
 <head>
     <title>The Game Of Life</title>
